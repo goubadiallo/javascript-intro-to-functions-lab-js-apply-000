@@ -13,6 +13,14 @@ console.log('HELLO')
 function logWhisper(string){
   console.log('hello')
 }
-function sayHiToGrandma(string){
-  return "I can't hear you!"
+
+
+const sayHiToGrandma = function(string){
+  if(string === "I love you, Grandma.")
+  return "I love you, too."
 }
+//if("I live you too." === "i love you too.")
+if(string === string.toLowerCase()){
+  return 'I cant\'t hear you!'
+}
+return "YES INDEED!"
