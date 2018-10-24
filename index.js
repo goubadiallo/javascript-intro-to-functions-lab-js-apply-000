@@ -17,4 +17,4 @@ function sayHiToGrandma(string){
   return "I can't hear you!"
 }
 var sayHiToGrandma = 'HELLO'
-return 
+return "YES INDEED!"
