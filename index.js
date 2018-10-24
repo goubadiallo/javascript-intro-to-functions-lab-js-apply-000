@@ -21,7 +21,7 @@ const sayHiToGrandma = function(string){
 }
 //if("I love you too." === "i love you too.")
 if(string === string.toLowerCase()){
-  return 'I cant\'t hear you!'
+  return 'I cant't hear you!'
 }
 return "YES INDEED!"
 }
