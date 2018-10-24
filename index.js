@@ -16,5 +16,3 @@ function logWhisper(string){
 function sayHiToGrandma(string){
   return "I can't hear you!"
 }
-var sayHiToGrandma = 'HELLO'
-return "YES INDEED!"
